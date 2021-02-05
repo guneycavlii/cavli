@@ -1,0 +1,26 @@
+[
+  {
+    "islemBilgi" : "Çok güzel bir işlemdir",
+    "islemDetayi" : "İnanılmaz güzel bir işlemdir wowwe",
+    "islemGorsel" : "www.asd.com",
+    "islemName" : "Cilt Bakımı"
+  },
+  {
+    "islemBilgi" : "Güzel",
+    "islemDetayi" : "Wooow",
+    "islemGorsel" : "www.asd.com",
+    "islemName" : "Dermapen"
+  },
+  {
+    "islemBilgi" : "Çok güzel bir işlemdir",
+    "islemDetayi" : "İnanılmaz güzel bir işlemdir wowwe",
+    "islemGorsel" : "www.asd.com",
+    "islemName" : "Lazer Epilasyon"
+  },
+  {
+    "islemBilgi" : "Güzel",
+    "islemDetayi" : "Wooow",
+    "islemGorsel" : "www.asd.com",
+    "islemName" : "Hydrafacial"
+  },		
+]
